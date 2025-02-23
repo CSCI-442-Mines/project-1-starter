@@ -1,6 +1,8 @@
 # CSCI-442: Project 1 - Warm Up
 
-> [!WARNING] Please see the assignment on Canvas for dates.
+> [!WARNING]
+>
+> Please see the assignment on Canvas for dates.
 
 > [!IMPORTANT]
 >
@@ -208,7 +210,9 @@ However, **YOU WILL NEED TO TEST YOUR CODE ON MORE THAN JUST THE PROVIDED TESTS*
 - We will have no sympathy for students who only use the provided tests and then receive a poor
   score.
 
-> [!WARNING] We will be using `diff` to verify your program produces the correct output. This means
+> [!WARNING]
+>
+> We will be using `diff` to verify your program produces the correct output. This means
 > you will _not_ get partial credit on a within-test basis (i.e., you will either pass, or fail,
 > each individual test. There is no in-between)
 >
@@ -255,5 +259,7 @@ make submission
 3.  Submit this `.zip` file to Gradescope. You will get a confirmation email if you did this
     correctly.
 
-> [!WARNING] You are **REQUIRED** to use `make submission` to form the `.zip` file. Failure to do so
+> [!WARNING]
+>
+> You are **REQUIRED** to use `make submission` to form the `.zip` file. Failure to do so
 > may cause your program to not compile on Gradescope.
