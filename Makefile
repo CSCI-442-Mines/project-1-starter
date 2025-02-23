@@ -14,6 +14,6 @@ e2e-tests: $(TARGET)
 clean:
 	rm -f $(TARGET)
 
-submission: e2e-tests
+submission: $(TARGET)
 	@read -p "Enter your Mines multipass username: " USERNAME && \
 	zip -r "$${USERNAME}-submission.zip" ./Makefile ./reverse.c ./override.token
